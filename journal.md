@@ -12,4 +12,4 @@ Personally I believe that the new phone law isnt very needed and that school wou
 
 Today, I explained a way that computer science could be valuable for a career in interested in.
 
-One career i'm interested in is photography and clothing design. Computer science could be valuable in photography because i could possibly learn to edit pictures or videos better. Computer science could be useful in clothing design becuase it could assist me in finding out ways to make designs or try out different ideas I have.
+One career i'm interested in is photography and fashion design. Computer science could be valuable in photography because i could possibly learn to edit pictures or videos better. Computer science could be useful in fashion design becuase it could assist me in finding out ways to make designs or try out different ideas I have.
