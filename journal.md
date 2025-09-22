@@ -13,3 +13,13 @@ Personally I believe that the new phone law isnt very needed and that school wou
 Today, I explained a way that computer science could be valuable for a career in interested in.
 
 One career i'm interested in is photography and fashion design. Computer science could be valuable in photography because i could possibly learn to edit pictures or videos better. Computer science could be useful in fashion design becuase it could assist me in finding out ways to make designs or try out different ideas I have.
+
+# September 15, 2025
+
+Today, I wrote a paragraph in C.E.R format talking about using AI to solve real world problems.
+
+There are many ways to use AI in the real world in many different categories. Some examples are in education, health, saftey, etc. I believe that one useful way you can use AI responsibly is assisting in education. This can be done by useing AI to help students learn in different ways or help teachers come up with lessons. AI could also be used to help solve problems and explain it in ways that the user could better understand. 
+
+
+# September 22, 2025
+
