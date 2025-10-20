@@ -26,3 +26,17 @@ There are many ways to use AI in the real world in many different categories. So
 Today I wrote a paragraph about if working in a virtual store for real money is a good idea or a bad idea for the future of jobs.
 
 I belive working in a virtual store for real money would be a good idea for many different reasons. One reason i belive this is because people would be able to have a more flexible schedule. They would also be able to work from anywhere as long as they have internet. This would also help with people being late to work because of traffic or other possible issues. Overall being able to work online would be a good idea for many reasons and should be available for more stores around the world.
+
+
+# October 20,2025
+
+Today I solved a logic puzzle
+
+| Name        | Class       | Seat        |
+| ----------- | ----------- | ----------- |
+| Franklin    | Second      | 91A         |
+| Hardeep     | Third       | 61F         |
+| Marla       | First       | 35B         |
+
+
+
