@@ -28,7 +28,7 @@ Today I wrote a paragraph about if working in a virtual store for real money is 
 I belive working in a virtual store for real money would be a good idea for many different reasons. One reason i belive this is because people would be able to have a more flexible schedule. They would also be able to work from anywhere as long as they have internet. This would also help with people being late to work because of traffic or other possible issues. Overall being able to work online would be a good idea for many reasons and should be available for more stores around the world.
 
 
-# October 20,2025
+# October 20, 2025
 
 Today I solved a logic puzzle
 
@@ -39,4 +39,14 @@ Today I solved a logic puzzle
 | Marla       | First       | 35B         |
 
 
+# October 27, 2025
+
+Today I solved a Cooking class logic puzzle.
+
+
+| Name        | Main Dish      | Dessert           |
+| ----------- | -------------- | ----------------- |
+| Fiona       | Gado Gado      | Creme Brulee      |
+| Tobias      | Shrimp Ceviche | French Apple Cake |
+| Leanne      | Beef Wellington| Raspberry Tiramisu|
 
