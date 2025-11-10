@@ -50,3 +50,9 @@ Today I solved a Cooking class logic puzzle.
 | Tobias      | Shrimp Ceviche | French Apple Cake |
 | Leanne      | Beef Wellington| Raspberry Tiramisu|
 
+
+# November 10, 2025
+
+Today I explained how technology has changed the holiday
+
+There are many different way the technology has changed how people celebrate holidays. One way is that they are able to connect with family virtually if they are not able to see them in person. I belive that these changes can help make the holiday better because it allows people to hold a stronger connection and be more in touch with people who live far away during the holiday season. I dont belive that the developers should be the ones responsible for respects family time. this is because it all depends on how the user uses the tech. There are many way that people can use tech and still spend quality time with their family such as allowing them to watch or letting them use it with you. 
