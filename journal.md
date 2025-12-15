@@ -63,3 +63,10 @@ There are many different way the technology has changed how people celebrate hol
 Today i explained what im looking forward to this Thanksgiving break
 
 This Thanksgiving break I am looking forward to hanging out with friends and family, I am also looking forward to the food. 
+
+
+# December 15, 2025
+
+Today i explained what i am doing this winter break
+
+This winter break i will be hanging out with my grandma and some friends. I might also go to the movies or go skating.
