@@ -70,3 +70,8 @@ This Thanksgiving break I am looking forward to hanging out with friends and fam
 Today i explained what i am doing this winter break
 
 This winter break i will be hanging out with my grandma and some friends. I might also go to the movies or go skating.
+
+
+# January 6, 2026
+
+Over the break I had many different ways to access technology one main way was through my phone. I use my phone for many different things but i mainly use it to talk to friends or listen to music. Another way i used technology over the break was through my xbox. I use my xbox to play video games with my friends, watch youtube, etc. I also used technology to watch movies and shows with family.
