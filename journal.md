@@ -75,3 +75,10 @@ This winter break i will be hanging out with my grandma and some friends. I migh
 # January 6, 2026
 
 Over the break I had many different ways to access technology one main way was through my phone. I use my phone for many different things but i mainly use it to talk to friends or listen to music. Another way i used technology over the break was through my xbox. I use my xbox to play video games with my friends, watch youtube, etc. I also used technology to watch movies and shows with family.
+
+
+# January 12, 2026
+
+Safe places are needed on the internet to help prevent bad influences for kids. It is also needed to possibly help people have more fun and not have to worry about others who take things too seriously. Autcraft was designed to create a private mincraft server specifically to be safe and welcoming fo autistic children. This can be used to help Minecraft become a more healthy environment not filled with people who may be disrespectful and might make the expirence not as enjoyable. If developers ignored saftey and inclusion the game may overall get hate from people who may feel left out which might risk the games career as a whole.
+
+
