@@ -86,6 +86,11 @@ Safe places are needed on the internet to help prevent bad influences for kids. 
 Technology has many ways of helping create a more fair and just society. Technology is able to reach more people from all across the world in a short amount of time allowing people to spread awareness and help build a fair society. There are many examples of this in the real world but one main example is what going on with ICE right now and how people are able to spread awareness all over the country. By doing this online it has allowed many people to take action and try to bring justice to this unfair world we are living in. The use of technology has helped people be treated better because it helps people notice all the ways people have been treated unfairly and helps people connect to find ways to bring justice and work against all the bad people.
 
 
-# January 20, 2026
+# January 29, 2026
 
 The took i had to take was the elar Map test. I feel like i did quite good on both tests and i didnt have a lot of problems. There were a few difficult questions i didnt fully understand but i tried my best to work through them. I think that test prep might have helped me better understand the questions better and helped me know what i was going to see on the test. 
+
+
+# February 10, 2026
+
+Personally I enjoy football because my family likes it and its fun to play. I did watch Super Bowl LX i feel like it wasn't bad and the halftime show was pretty good besides the lady gaga part.
