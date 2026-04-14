@@ -92,5 +92,7 @@ The took i had to take was the elar Map test. I feel like i did quite good on bo
 
 
 # February 10, 2026
-
 Personally I enjoy football because my family likes it and its fun to play. I did watch Super Bowl LX i feel like it wasn't bad and the halftime show was pretty good besides the lady gaga part.
+
+# March 23, 2026 
+I chose my bracket by partcially guessing and using some data. Using data might improve predictions by helping determine the teams win rate and the odds of them beating the other team based on their overall past preformance. A computer program can use this type of data to make better predictions because it can go over each individual stat of each player on the team and review their team chemistry at a faster pace, it could make more accurate predictions and take more things into account that a person wouldn't. 
