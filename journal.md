@@ -96,3 +96,6 @@ Personally I enjoy football because my family likes it and its fun to play. I di
 
 # March 23, 2026 
 I chose my bracket by partcially guessing and using some data. Using data might improve predictions by helping determine the teams win rate and the odds of them beating the other team based on their overall past preformance. A computer program can use this type of data to make better predictions because it can go over each individual stat of each player on the team and review their team chemistry at a faster pace, it could make more accurate predictions and take more things into account that a person wouldn't. 
+
+# April 20, 2026
+I beleive that is matters if music and content is made by ai because ai isnot able to have the full emotions in their work that humas can. Ai content can influence people the same way that human-created contented because some content made by ai can be produced with a script or a prompt made by humans to immitate the work of human mad content. I think there should be limits on how ai is used in music and media because it's not fair that people put in so much work to get where they are without the use of ai, the extensive use of ai would also is return make the content sloppier.
