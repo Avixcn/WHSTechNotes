@@ -102,3 +102,7 @@ I think that modern space technology is not reliable enough for long missiions l
 
 # April 20, 2026
 I beleive that is matters if music and content is made by ai because ai isnot able to have the full emotions in their work that humas can. Ai content can influence people the same way that human-created contented because some content made by ai can be produced with a script or a prompt made by humans to immitate the work of human mad content. I think there should be limits on how ai is used in music and media because it's not fair that people put in so much work to get where they are without the use of ai, the extensive use of ai would also is return make the content sloppier.
+
+
+# April 27, 2026
+Some things i've payed attention to this week are music, gaming, and social media. Technology influences these things by allowing people to use them outside of their home and any time of day. One way that techonlogy influences music is through streaming services such as spotify, apple music, etc. These streaming sites allow people to wirelessly on their phones instead of having to use record players or other devices from inside their home. It also influences social media by allowing people connect with others from large distances and helps spread information all around the world in a short amount of time.
