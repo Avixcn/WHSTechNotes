@@ -106,3 +106,7 @@ I beleive that is matters if music and content is made by ai because ai isnot ab
 
 # April 27, 2026
 Some things i've payed attention to this week are music, gaming, and social media. Technology influences these things by allowing people to use them outside of their home and any time of day. One way that techonlogy influences music is through streaming services such as spotify, apple music, etc. These streaming sites allow people to wirelessly on their phones instead of having to use record players or other devices from inside their home. It also influences social media by allowing people connect with others from large distances and helps spread information all around the world in a short amount of time.
+
+
+# May 6, 2026
+I believe i am personally helping train ai through apps and devices I use. Some examples of my contributions are through Tiktok, Google searches, Google Gemini, etc. Some of my actions that might be feeding into data are my likes that help build the algorithm, importing different files into ai and the commands given, and the searches I make that help ai know what answers that people might look for and how they need it to be shown.
