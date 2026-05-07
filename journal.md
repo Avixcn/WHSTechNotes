@@ -109,4 +109,4 @@ Some things i've payed attention to this week are music, gaming, and social medi
 
 
 # May 6, 2026
-I believe i am personally helping train ai through apps and devices I use. Some examples of my contributions are through Tiktok, Google searches, Google Gemini, etc. Some of my actions that might be feeding into data are my likes that help build the algorithm, importing different files into ai and the commands given, and the searches I make that help ai know what answers that people might look for and how they need it to be shown.
+I believe I am personally helping train ai through apps and devices I use. Some examples of my contributions are through Tiktok, Google searches, Google Gemini, etc. Some of my actions that might be feeding into data are my likes that help build the algorithm, importing different files into ai and the commands given, and the searches I make that help ai know what answers that people might look for and how they need it to be shown. I believe i'm an user and a part of the training process, companies might use this to help improve the experience of ai and use the feedback to help troubleshoot errors that may occur. 
