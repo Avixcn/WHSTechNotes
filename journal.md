@@ -110,3 +110,7 @@ Some things i've payed attention to this week are music, gaming, and social medi
 
 # May 6, 2026
 I believe I am personally helping train ai through apps and devices I use. Some examples of my contributions are through Tiktok, Google searches, Google Gemini, etc. Some of my actions that might be feeding into data are my likes that help build the algorithm, importing different files into ai and the commands given, and the searches I make that help ai know what answers that people might look for and how they need it to be shown. I believe i'm an user and a part of the training process, companies might use this to help improve the experience of ai and use the feedback to help troubleshoot errors that may occur. 
+
+
+# May 11, 2026
+Some personal areas I grew in this year are through friendships, emotional maturity, communication, and independence. Some things that helped and caused my growth with independence was being able to deal with isolation during many times of the day and rely on myself rather than my peers. One way i was able to grow in friendships was spending more time together and talking more deeply about specific topics. An example of my growth through independence is my ability to feel comfortable in situations where i dont know people around me and not having to worry about what to do when people i know are not around. Im different now than the beginning of the year from many different things containing emotional physical and socially now I am more mature and calm i also dont take most things to the heart and am not as sensitive.
